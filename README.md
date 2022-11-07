@@ -12,6 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-https://www.linkedin.com/in/monicaelias219/
+[linkedin]: https://linkedin.com/in/monicaelias219
 
 
