@@ -1,4 +1,4 @@
-### Hi I'm Monica!An IT Professional
+### Hi I'm Monica! An IT Professional
 
 <!--
 **monicaelias219/monicaelias219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
